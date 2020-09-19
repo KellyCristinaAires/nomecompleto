@@ -1,0 +1,13 @@
+C:\Users\kelly\Documents\atividadespc1\nomecompeto\bin\Debug\netcoreapp3.1\nomecompeto.exe
+C:\Users\kelly\Documents\atividadespc1\nomecompeto\bin\Debug\netcoreapp3.1\nomecompeto.deps.json
+C:\Users\kelly\Documents\atividadespc1\nomecompeto\bin\Debug\netcoreapp3.1\nomecompeto.runtimeconfig.json
+C:\Users\kelly\Documents\atividadespc1\nomecompeto\bin\Debug\netcoreapp3.1\nomecompeto.runtimeconfig.dev.json
+C:\Users\kelly\Documents\atividadespc1\nomecompeto\bin\Debug\netcoreapp3.1\nomecompeto.dll
+C:\Users\kelly\Documents\atividadespc1\nomecompeto\bin\Debug\netcoreapp3.1\nomecompeto.pdb
+C:\Users\kelly\Documents\atividadespc1\nomecompeto\obj\Debug\netcoreapp3.1\nomecompeto.csprojAssemblyReference.cache
+C:\Users\kelly\Documents\atividadespc1\nomecompeto\obj\Debug\netcoreapp3.1\nomecompeto.AssemblyInfoInputs.cache
+C:\Users\kelly\Documents\atividadespc1\nomecompeto\obj\Debug\netcoreapp3.1\nomecompeto.AssemblyInfo.cs
+C:\Users\kelly\Documents\atividadespc1\nomecompeto\obj\Debug\netcoreapp3.1\nomecompeto.csproj.CoreCompileInputs.cache
+C:\Users\kelly\Documents\atividadespc1\nomecompeto\obj\Debug\netcoreapp3.1\nomecompeto.dll
+C:\Users\kelly\Documents\atividadespc1\nomecompeto\obj\Debug\netcoreapp3.1\nomecompeto.pdb
+C:\Users\kelly\Documents\atividadespc1\nomecompeto\obj\Debug\netcoreapp3.1\nomecompeto.genruntimeconfig.cache
